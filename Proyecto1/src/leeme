@@ -1,0 +1,1 @@
+javac SocketCliente.java DatoSocket.java Principal.java Principal.java Frame.java Panel.java
